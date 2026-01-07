@@ -1,0 +1,88 @@
+Account #,Account Name,Type,Top Level Grouping,FS Grouping,Detailed Grouping
+1000,Bank - CAD,BS,Current assets,Cash,
+1001,Bank - USD,BS,Current assets,Cash,
+1002,Bank - other currencies,BS,Current assets,Cash,
+1100,Marketable securities,BS,Current assets,Marketable securities,
+1200,Accounts receivable - trade CAD,BS,Current assets,Accounts receivable,
+1201,Accounts receivable - trade USD,BS,Current assets,Accounts receivable,
+1202,Accounts receivable - other,BS,Current assets,Accounts receivable,
+1300,Inventory - t-shirts,BS,Current assets,Inventory,
+1301,Inventory - hats,BS,Current assets,Inventory,
+1400,Prepaid supplies,BS,Current assets,Prepaird expenses,
+1401,Prepaid insurance,BS,Current assets,Prepaird expenses,
+1402,Prepaid - other,BS,Current assets,Prepaird expenses,
+1500,Other assets,BS,Current assets,Other assets,
+1600,Furniture and fixtures,BS,Long term assets,Capital assets,Furniture and fixtures
+1601,Vehicles,BS,Long term assets,Capital assets,Vehicles
+1602,Office equipment,BS,Long term assets,Capital assets,Office equipment
+1603,Leasehold improvements,BS,Long term assets,Capital assets,Leasehold improvements
+1700,Accumulated depreciation - Furniture and fixtures,BS,Long term assets,Capital assets,Accumulated depreciation
+1701,Accumulated depreciation - Vehicles,BS,Long term assets,Capital assets,Accumulated depreciation
+1702,Accumulated depreciation - Office equipment,BS,Long term assets,Capital assets,Accumulated depreciation
+1703,Accumulated depreciation - Leasehold improvements,BS,Long term assets,Capital assets,Accumulated depreciation
+1800,Goodwill,BS,Long term assets,Goodwill,
+1801,Software,BS,Long term assets,Intangible assets,
+1901,Accumulated amortization - Software,BS,Long term assets,Intangible assets,
+2000,Accounts payable - trade CAD,BS,Current liabilities,Accounts payable and accrued liabilities,Trade payables
+2002,Accounts payable - other,BS,Current liabilities,Accounts payable and accrued liabilities,Trade payables
+2100,Accrued expenses,BS,Current liabilities,Accounts payable and accrued liabilities,Accrued liabilities
+2101,Accrued salaries and wages,BS,Current liabilities,Accounts payable and accrued liabilities,Accrued liabilities
+2102,Accrued vacation pay,BS,Current liabilities,Accounts payable and accrued liabilities,Accrued liabilities
+2103,Sales tax liability,BS,Current liabilities,Accounts payable and accrued liabilities,
+2200,Short term loan - XYZ Bank,BS,Current liabilities,Short term loan,
+2201,Short term loan - EFG Bank,BS,Current liabilities,Short term loan,
+2300,Customer deposits,BS,Current liabilities,Customer deposits,
+2400,Income taxes payable - federal,BS,Current liabilities,Income taxes payable,
+2401,Income taxes payable - provincial,BS,Current liabilities,Income taxes payable,
+2500,Term loan - ABC Bank,BS,Long term liabilities,Term loan,
+2600,Advances from Saturno Holdings Inc.,BS,Long term liabilities,Due to related parties,
+2601,Advances from Saturno Trust Co.,BS,Long term liabilities,Due to related parties,
+2700,Shareholder loan - Matt Saturno,BS,Long term liabilities,Due to shareholders,
+3000,Common shares,BS,Equity,Common shares,
+3001,Preference shares,BS,Equity,Preferred shares,
+3002,Dividends,BS,Equity,Retained earnings,
+3003,Retained earnings,BS,Equity,Retained earnings,
+4001,Hat sales,IS,Sales,Sales,Hat sales
+4002,T-shirt sales,IS,Sales,Sales,T-shirt sales
+5001,Hat cost of sales,IS,Cost of sales,Cost of sales,Hat cost of sales
+5002,T-shirt cost of sales,IS,Cost of sales,Cost of sales,T-shirt cost of sales
+6000,Online marketing ads,IS,Operating expenses,Advertising and promotions,Promotions/ads
+6001,Promotion - trade shows,IS,Operating expenses,Advertising and promotions,Promotions/ads
+6002,Promotion - commercials,IS,Operating expenses,Advertising and promotions,
+6003,Donations - golf tournaments,IS,Operating expenses,Advertising and promotions,Donations
+6100,Depreciation - fixed assets,IS,Operating expenses,Depreciation,
+6101,Amortization - software,IS,Operating expenses,Amortization,
+6200,Insurance - stores,IS,Operating expenses,Insurance,
+6201,Insurance - life insurance for Matthew Saturno,IS,Operating expenses,Insurance,
+6300,Office supplies,IS,Operating expenses,Office expenses,
+6301,Mail/courier expenses,IS,Operating expenses,Office expenses,
+6302,General office/store maintenance,IS,Operating expenses,Office expenses,
+6303,Cleaning services,IS,Operating expenses,Office expenses,
+6304,Parking,IS,Operating expenses,Vehicle expenses,
+6400,Gas,IS,Operating expenses,Utilities,
+6401,Electricity,IS,Operating expenses,Utilities,
+6402,Water,IS,Operating expenses,Utilities,
+6500,Client dinners,IS,Operating expenses,Meals and entertainment,
+6501,Jays/Leafs/Raptors tickets,IS,Operating expenses,Meals and entertainment,
+6502,Holiday parties,IS,Operating expenses,Meals and entertainment,
+6503,Travel expenses,IS,Operating expenses,Travel expenses,
+6600,Telephone expenses,IS,Operating expenses,Telephone and internet,
+6601,Internet expenses,IS,Operating expenses,Telephone and internet,
+6700,Interest on short term loans,IS,Operating expenses,Interest expense,
+6701,Interest on long term loans,IS,Operating expenses,Interest expense,
+6702,Bank charges,IS,Operating expenses,Bank fees,
+6800,Customer write-offs,IS,Operating expenses,Bad debt,
+6900,Legal costs,IS,Operating expenses,Professional fees,Legal
+6901,Accounting costs,IS,Operating expenses,Professional fees,Accounting
+6110,Vehicle maintenance,IS,Operating expenses,Vehicle expenses,
+6111,Other vehicle expenses,IS,Operating expenses,Vehicle expenses,
+6112,Vehicle fuel,IS,Operating expenses,Vehicle expenses,
+6210,Rent,IS,Operating expenses,Rent,
+6310,Freight and delivery costs,IS,Operating expenses,Freight,
+6410,Management salaries,IS,Operating expenses,Management salaries,
+6411,Admin salaries,IS,Operating expenses,Salaries and wages,
+6412,Sales salaries,IS,Operating expenses,Salaries and wages,
+7000,Investment income,IS,Other income/expenses,Investment income,
+7001,Gains/losses on sale of equipment,IS,Other income/expenses,Gains/losses on sale of equipment,
+7002,Foreign currency gains/losses,IS,Other income/expenses,Foreign currency gains/losses,
+8000,Income taxes,IS,Income taxes,Income taxes,

@@ -1,0 +1,48 @@
+# === PYTHON BUILD ARTIFACTS ===
+__pycache__/
+*.py[cod]
+*.so
+
+# === ENVIRONMENT FILES ===
+.env
+.env.*
+
+# === VIRTUAL ENVIRONMENTS ===
+venv/
+env/
+
+# === PYTHON TEST CACHE ===
+.pytest_cache/
+
+# === DIST / PACKAGING ===
+build/
+dist/
+*.egg-info/
+
+# === JUPYTER NOTEBOOKS ===
+.ipynb_checkpoints/
+
+# === OS-SPECIFIC FILES ===
+.DS_Store
+Thumbs.db
+
+# === IDEs / EDITORS ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === PROJECT-SPECIFIC IGNORES ===
+
+# Ignore ONLY __pycache__, not actual code
+**/__pycache__/
+
+# Keep cache folder and files inside it
+!cache/
+!cache/*.py
+!cache/**/*.py
+
+# Ignore datasets
+data-sets/
+
+# Optional: Ignore test scripts (you can comment this out if needed)
+test*.py
